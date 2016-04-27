@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./brevariumphilos00grangoog_0009.png"; bbox 0 0 2642 4250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 805 1555 1553 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 805 1555 1553 1673">
+     <span class='ocr_line' id='line_1_1' title="bbox 805 1555 1553 1673; baseline 0.005 -37"><span class='ocrx_word' id='word_1_1' title='bbox 805 1555 1553 1673; x_wconf 73' lang='lat' dir='ltr'><strong>BR.1‹]V1AR]JUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 322 1829 2060 2285">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 322 1829 2060 2285">
+     <span class='ocr_line' id='line_1_2' title="bbox 322 1829 2060 1976; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 322 1849 418 1974; x_wconf 82' lang='grc' dir='ltr'><em>Ρ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 483 1851 598 1975; x_wconf 90' lang='lat' dir='ltr'><em>H</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 671 1849 712 1972; x_wconf 92' lang='lat'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 784 1850 868 1974; x_wconf 91' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_6' title='bbox 927 1847 1064 1976; x_wconf 84' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_7' title='bbox 1129 1849 1205 1975; x_wconf 90' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_8' title='bbox 1265 1829 1403 1975; x_wconf 85' lang='lat' dir='ltr'><strong>O</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1467 1848 1565 1974; x_wconf 88' lang='grc' dir='ltr'><em>Ρ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1629 1849 1749 1975; x_wconf 89' lang='lat' dir='ltr'><strong>H</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1820 1850 2060 1976; x_wconf 84' lang='lat' dir='ltr'><strong>1AE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 673 2178 1700 2285; baseline 0.002 -2"><span class='ocrx_word' id='word_1_12' title='bbox 673 2178 1700 2285; x_wconf 80' lang='lat' dir='ltr'>SCHOLASTICAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1104 2445 1217 2545">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1104 2445 1217 2545">
+     <span class='ocr_line' id='line_1_4' title="bbox 1104 2445 1217 2545; baseline 0.009 -28"><span class='ocrx_word' id='word_1_13' title='bbox 1104 2445 1217 2545; x_wconf 78' lang='lat'><strong>111</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
